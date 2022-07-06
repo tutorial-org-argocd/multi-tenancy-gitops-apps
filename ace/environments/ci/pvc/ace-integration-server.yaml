@@ -5,8 +5,6 @@ metadata:
 spec:
   accessModes:
     - ReadWriteMany
-  capacity:
-    storage: 20Gi
   resources:
     requests:
       storage: 1Gi
